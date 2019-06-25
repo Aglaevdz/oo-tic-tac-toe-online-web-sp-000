@@ -99,5 +99,14 @@ class TicTacToe
     elsif draw?
       puts "Cat's Game!"
     end
+<<<<<<< HEAD
+=======
+    turn
+    turn_count
+    current_player
+    until over? == true
+    turn
+  end
+>>>>>>> 22a1adf9b3f7dd2d762e1fb28029b6ddcf616ef4
 end
 end
